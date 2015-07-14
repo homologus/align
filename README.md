@@ -1,4 +1,4 @@
-# align
+# Align
 
 Step 1. Read two FASTA files - A and B.
 
